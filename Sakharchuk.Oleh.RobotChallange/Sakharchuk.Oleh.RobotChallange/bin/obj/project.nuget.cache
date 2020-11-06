@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCMWBf8Gj7zHKG+hICFb7memr0g7sZ4EmkkqOckYMVc5SvqlzioJaNaCRvvNkoatQlBgU7Pz895SFxnExH2dww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sugar\\source\\repos\\Sakharchuk.Oleh.RobotChallange\\Sakharchuk.Oleh.RobotChallange\\Sakharchuk.Oleh.RobotChallange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sugar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sugar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

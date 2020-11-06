@@ -1,0 +1,11 @@
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\bin\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.deps.json
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\bin\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.dll
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\bin\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.pdb
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\bin\Debug\netstandard2.0\Robot.Common.dll
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\obj\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.AssemblyInfoInputs.cache
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\obj\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.AssemblyInfo.cs
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\obj\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.csproj.CoreCompileInputs.cache
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\obj\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.csproj.CopyComplete
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\obj\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.dll
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\obj\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.pdb
+C:\Users\sugar\source\repos\Sakharchuk.Oleh.RobotChallange\Sakharchuk.Oleh.RobotChallange\obj\Debug\netstandard2.0\Sakharchuk.Oleh.RobotChallange.csprojAssemblyReference.cache
