@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N9sRe8M30Qi1cg/i242NfQxHdpKAn4Ecgn/u3xb1gV53O5kAjb5vouX8H7GMuFqJkc61W9s2kppr1VR/pGRMBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sugar\\source\\repos\\lab 2\\payments\\payments\\payments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sugar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sugar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

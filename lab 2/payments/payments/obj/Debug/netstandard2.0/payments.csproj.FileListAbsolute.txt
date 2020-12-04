@@ -1,0 +1,9 @@
+C:\Users\sugar\source\repos\payments\payments\bin\Debug\netstandard2.0\payments.deps.json
+C:\Users\sugar\source\repos\payments\payments\bin\Debug\netstandard2.0\payments.dll
+C:\Users\sugar\source\repos\payments\payments\bin\Debug\netstandard2.0\payments.pdb
+C:\Users\sugar\source\repos\payments\payments\obj\Debug\netstandard2.0\payments.AssemblyInfoInputs.cache
+C:\Users\sugar\source\repos\payments\payments\obj\Debug\netstandard2.0\payments.AssemblyInfo.cs
+C:\Users\sugar\source\repos\payments\payments\obj\Debug\netstandard2.0\payments.csproj.CoreCompileInputs.cache
+C:\Users\sugar\source\repos\payments\payments\obj\Debug\netstandard2.0\payments.dll
+C:\Users\sugar\source\repos\payments\payments\obj\Debug\netstandard2.0\payments.pdb
+C:\Users\sugar\source\repos\payments\payments\obj\Debug\netstandard2.0\payments.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\sugar\source\repos\ATM\UIATM\bin\Debug\UIATM.exe.config
+C:\Users\sugar\source\repos\ATM\UIATM\bin\Debug\UIATM.exe
+C:\Users\sugar\source\repos\ATM\UIATM\bin\Debug\UIATM.pdb
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.Properties.Resources.resources
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.csproj.GenerateResource.cache
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.csproj.CoreCompileInputs.cache
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.exe
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.pdb
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.Authorization.resources
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.Menu.resources
+C:\Users\sugar\source\repos\ATM\UIATM\bin\Debug\payments.pdb
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.csproj.CopyComplete
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.MoneyManagementWondow.resources
+C:\Users\sugar\source\repos\ATM\UIATM\bin\Debug\payments.dll
+C:\Users\sugar\source\repos\ATM\UIATM\obj\Debug\UIATM.csprojAssemblyReference.cache

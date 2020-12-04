@@ -1,0 +1,10 @@
+C:\Users\sugar\source\repos\ATM\ATM\obj\Debug\ConsoleATM.csproj.CoreCompileInputs.cache
+C:\Users\sugar\source\repos\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\sugar\source\repos\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\sugar\source\repos\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\sugar\source\repos\ATM\ATM\bin\Debug\payments.dll
+C:\Users\sugar\source\repos\ATM\ATM\bin\Debug\payments.pdb
+C:\Users\sugar\source\repos\ATM\ATM\obj\Debug\ConsoleATM.csproj.CopyComplete
+C:\Users\sugar\source\repos\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\sugar\source\repos\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\sugar\source\repos\ATM\ATM\obj\Debug\ConsoleATM.csprojAssemblyReference.cache
